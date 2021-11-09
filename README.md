@@ -17,47 +17,31 @@ This company is the largest online loan marketplace, facilitating personal loans
 Borrowers can easily access lower interest rate loans through a fast online interface. 
 - What is the business probem that your project is trying to solve?
 Like most other lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). 
-The credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. 
-In this case, the customers labelled as 'charged-off' are the 'defaulters'. 
+The credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. 
+In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'. 
 
 
 - What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+Loan.csv is the dataset that has been used
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Term : 36 months have less defaulters then 60. SO the Loans which has Loan Term with 60 months needs to be taken care.
+- Grade : Higher Grade Loans have high percentage to default.
+- Sub Grade : Increasing as grades are increasing(Only F and G are exception)
+- Loan-Amount: People Having High and Very High Loan AMounts tends to default more
+- Public Record Bankruptcies:
+- Purpose: Small Bussiness have most defaulters percent than rest followed by renewable ENergy
+- Annual-Income : Lower the Annual Income Higher Chances to Default
+- Interest Rate : Higher the Interest Rate Higher are the chances of Default.
+- 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
-## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
-
-
-Note. As plotly Graphs cannot be viewed on Github use this Viewer Link: https://nbviewer.org/github/shreyansbardia557/LendingCLubCaseStudy/blob/main/LendingClubCaseStudyEDA.ipynb
+Note. As plotly Graphs cannot be viewed on Github use this Viewer Link:[Viewer](https://nbviewer.org/github/shreyansbardia557/LendingCLubCaseStudy/blob/main/LendingClubCaseStudyEDA.ipynb)
 
