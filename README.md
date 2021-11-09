@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending CLub Case Study EDA
+
 
 
 ## Table of Contents
@@ -13,7 +13,14 @@
 ## General Information
 - Provide general information about your project here.
 - What is the background of your project?
+This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. 
+Borrowers can easily access lower interest rate loans through a fast online interface. 
 - What is the business probem that your project is trying to solve?
+Like most other lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). 
+The credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. 
+In this case, the customers labelled as 'charged-off' are the 'defaulters'. 
+
+
 - What is the dataset that is being used?
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
@@ -50,3 +57,7 @@ Created by [@githubusername] - feel free to contact me!
 <!-- This project is open source and available under the [... License](). -->
 
 <!-- You don't have to include all sections - just the one's relevant to your project -->
+
+
+Note. As plotly Graphs cannot be viewed on Github use this Viewer Link: https://nbviewer.org/github/shreyansbardia557/LendingCLubCaseStudy/blob/main/LendingClubCaseStudyEDA.ipynb
+
