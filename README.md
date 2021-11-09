@@ -1,4 +1,4 @@
-# fraud_detection
+# LendingClub CaseStudy
 Building a ML Model for Fraud Detection
 
 
